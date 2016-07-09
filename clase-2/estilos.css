@@ -1,0 +1,77 @@
+header {
+  background-color: black;
+  height: 80px;
+  padding: 0 25px;
+  float: left;
+  width: 100%;
+  box-sizing: border-box;
+  opacity: .6;
+}
+
+section {
+  background-image: url("bg-albums.png");
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  line-height: 80px;
+  margin-left: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  transition: color .3s ease;
+}
+
+nav a:hover {
+  color: #1ed760;
+}
+
+.logo {
+  margin-top: 25px;
+  width: 100px;
+}
+
+.main {
+  padding: 150px 120px;
+  text-align: center;
+}
+
+.btn {
+  border-radius: 10px;
+  color: white;
+  background-color: transparent;
+  padding: 6px 25px;
+  text-transform: uppercase;
+  margin: 0 10px;
+}
+
+.btn.blue {
+  background-color: #6207E3;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
