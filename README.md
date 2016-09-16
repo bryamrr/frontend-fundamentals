@@ -1,10 +1,9 @@
 # Frontend Fundamentals
 
-## Sesiones
+## Módulos
 
-* [Fundamentos de HTML-CSS](https://docs.google.com/presentation/d/1wrTsibGeNsiPsrgUxN3eaOx4gSeQFK-ER4sdc-vMKls)
-* Taller de HTML-CSS
-* [CSS Avanzado](https://docs.google.com/presentation/d/1cYkicyMWho1RYrQbSaUsoHyGeknSJI0MXOrhOzeUtbQ)
-* Taller CSS Avanzado
-* RWD y JavaScript
-* Taller de RWD y JavaScript
+* [Frontend Fundamentals](https://docs.google.com/presentation/d/1udOErZbTi9tB2EHSKbZ0AZ_O4XjPZ3yCVlkhAsic2Mo)
+* HTML5 y CSS3
+* CSS Avanzado
+* Responsive design
+* Skills complementarios
